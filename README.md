@@ -21,4 +21,4 @@
  
 </div>
 
-![Snake animation](https://github.com/VittoBaroni/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VittoBaroni/VittoBaroni/blob/output/github-contribution-grid-snake.svg)
