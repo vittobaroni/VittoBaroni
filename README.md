@@ -1,7 +1,7 @@
 
 ## Hii i am Vitto Baroni ! 🗿 🍷
 
-<h2> my projects are listed in the programming languages repositories. Hope you like it ! 👍 </h2> <br>
+<h2> my projects are listed in the languages repositories. Hope you like it ! 👍 </h2> <br>
 
 <div align="center">
   <a href="https://github.com/VittoBaroni">
