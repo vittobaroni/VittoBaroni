@@ -17,11 +17,7 @@
   
   ##
  
-<div> 
-  <a href="https://instagram.com/v_baronii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://twitter.com/baroni_vitto"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
- <a href = "mailto:baroni.vitto18@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</div>
+
 
 ![Snake animation](https://github.com/VittoBaroni/VittoBaroni/blob/output/github-contribution-grid-snake.svg)
  
