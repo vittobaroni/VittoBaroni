@@ -6,6 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vittobaroni&show_icons=true&theme=dracula)
 
+
 ## Ainda estou estudando, mas estas sao as tecnologias que eu uso no meu dia:
 <div style="display: inline_block"><br/>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
