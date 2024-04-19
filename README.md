@@ -15,8 +15,6 @@
     <img alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 
-### "As pessoas que são loucas o suficiente para achar que podem mudar o mundo são aquelas que o mudam "
-
 
 ![Snake animation](https://github.com/VittoBaroni/VittoBaroni/blob/output/github-contribution-grid-snake.svg)
  
