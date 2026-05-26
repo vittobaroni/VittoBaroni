@@ -16,5 +16,5 @@
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
 
-
+<p>Atualmente cursando o 6° Período de Ciência da Computação na UFF polo Rio das Ostras, pretendo atualizar com mais projetos pessoais durante as férias, principalmente ligados a Orientação a Objetos em Java e projetos em SQL !</p>
  
